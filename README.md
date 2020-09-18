@@ -2,7 +2,7 @@
 Astryia Source Code
 
 
-This is the Astryia Source Code containing these components
+This repository contains the following components
 
 1. Server 
 2. Client Modification/Extension DLL
