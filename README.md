@@ -9,3 +9,6 @@ This repository contains the following components
 3. Editor 
 4. Extras
 5. Notes for reverse engineering processes.
+
+
+No clients will be included.
